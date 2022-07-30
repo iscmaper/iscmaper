@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manuel Pérez</h1>
+<h1 align="center">Hi 👋, I'm Manuel</h1>
 <h3 align="center">A passionate Full Stack developer, although I like the backed one better... from Mexico</h3>
 
 - 🔭 I’m currently working on **private project (php, mysql,codeigniter)**
