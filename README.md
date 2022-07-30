@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **pyhton**
 
-- 👨‍💻 All of my projects are available at [(site inactive at the moment)]((site inactive at the moment))
+- 👨‍💻 All of my projects are available at **(site inactive at the moment)**
 
 - 📫 How to reach me **(site inactive at the moment)**
 
-- 📄 Know about my experiences [(site inactive at the moment)]((site inactive at the moment))
+- 📄 Know about my experiences **(site inactive at the moment)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
