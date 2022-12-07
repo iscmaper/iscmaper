@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuel</h1>
 <h3 align="center"> Full Stack Developer Semi Senior... from Mexico</h3>
-<h2>A Passionate about analysis and problem solving, although I like the backed one better</h2>
+<h4 align="center">A Passionate about analysis and problem solving, although I like the backed one better</h4>
+<br>
 
 - 🔭 I’m currently working on **private project (php, mysql,codeigniter)**
 
