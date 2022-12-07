@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Manuel</h1>
-<h3 align="center">A passionate Full Stack developer, although I like the backed one better... from Mexico</h3>
+<h3 align="center"> Full Stack Developer Semi Senior... from Mexico</h3>
+<h2>A Passionate about analysis and problem solving, although I like the backed one better</h2>
 
 - 🔭 I’m currently working on **private project (php, mysql,codeigniter)**
 
-- 🌱 I’m currently learning **codeigniter4, pyhton**
+- 🌱 I’m currently learning **codeigniter4, Python**
 
-- 👯 I’m looking to collaborate on **pyhton**
+- 👯 I’m looking to collaborate on **Python**
 
 - 👨‍💻 All of my projects are available at **(site inactive at the moment)**
 
