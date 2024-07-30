@@ -36,7 +36,7 @@
     </a>
 <!-- Backend -->
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" width="40" height="40"/></a>
     <!-- CMS-->
     <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" alt="wordpress" width="40" height="40"/></a>
     <a href="https://moodle.org/" target="_blank" rel="noreferrer"><img src="https://moodle.org/theme/moodleorg/pix/moodle_logo_TM.svg" alt="moodle" width="40" height="40"/></a>
