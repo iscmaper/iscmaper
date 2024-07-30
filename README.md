@@ -12,6 +12,9 @@
 `- 📄 Know about my experiences **(site inactive at the moment)**`
 
 <h3 align="left">Connect with me:</h3>
+<div>
+    <a href="https://mx.linkedin.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="linkedin" width="40" height="40"/></a>
+</div>
 <p align="left">
 </p>
 
